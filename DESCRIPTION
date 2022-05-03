@@ -9,7 +9,8 @@ Authors@R:
              email = "jan.goettmann@uni-mainz.de",
       person(given = "Gidon",
              family = "Frischkorn",
-             role = c("aut", "ths")
+             role = c("aut", "ths"),
+             email = "gidon.frischkorn@psychologie.uzh.ch",
       )
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
